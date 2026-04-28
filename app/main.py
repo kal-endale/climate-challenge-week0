@@ -16,7 +16,7 @@ st.set_page_config(
     layout="wide"
 )
 
-st.title("🌍 African Climate Trends Dashboard")
+st.title("African Climate Trends Dashboard")
 st.markdown("""
 This dashboard analyzes climate trends across:
 

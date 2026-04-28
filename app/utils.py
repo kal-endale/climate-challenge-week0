@@ -121,5 +121,5 @@ def plot_correlation_heatmap(df):
         cmap="coolwarm",
         ax=ax
     )
-
+    
     st.pyplot(fig)
